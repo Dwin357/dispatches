@@ -35,8 +35,6 @@ class Mission < ActiveRecord::Base
   end
 
 
-
-
   ######## ^-validation  v-class  ########
 
   ######## ^-class  v-instance  ########
